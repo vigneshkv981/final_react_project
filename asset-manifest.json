@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/final_react_project/static/css/main.9931d05b.css",
+    "main.js": "/final_react_project/static/js/main.ff365d8a.js",
+    "static/js/787.bb3bd7c9.chunk.js": "/final_react_project/static/js/787.bb3bd7c9.chunk.js",
+    "static/media/fa-brands-400.svg": "/final_react_project/static/media/fa-brands-400.4009e71782c2fd408c47.svg",
+    "static/media/fa-solid-900.svg": "/final_react_project/static/media/fa-solid-900.ab820b7de48566829c5e.svg",
+    "static/media/fa-solid-900.eot": "/final_react_project/static/media/fa-solid-900.d2c8b126d305ba3ef560.eot",
+    "static/media/fa-solid-900.ttf": "/final_react_project/static/media/fa-solid-900.2aae7c212ce9c344ede6.ttf",
+    "static/media/fa-regular-400.svg": "/final_react_project/static/media/fa-regular-400.d3d070c219ac57dafb23.svg",
+    "static/media/fa-brands-400.eot": "/final_react_project/static/media/fa-brands-400.4163c5ce45679952d5cb.eot",
+    "static/media/fa-brands-400.ttf": "/final_react_project/static/media/fa-brands-400.70257b1d0ff04d70da6c.ttf",
+    "static/media/fa-solid-900.woff": "/final_react_project/static/media/fa-solid-900.3a5706fab1c11ad6dfdc.woff",
+    "static/media/fa-brands-400.woff": "/final_react_project/static/media/fa-brands-400.b97ac5f935e23fc1816f.woff",
+    "static/media/fa-brands-400.woff2": "/final_react_project/static/media/fa-brands-400.b9df8fe0faf79eb4f60b.woff2",
+    "static/media/fa-solid-900.woff2": "/final_react_project/static/media/fa-solid-900.9ef50a04ef2ee9703d69.woff2",
+    "static/media/fa-regular-400.eot": "/final_react_project/static/media/fa-regular-400.0f9d1f74777600d15191.eot",
+    "static/media/fa-regular-400.ttf": "/final_react_project/static/media/fa-regular-400.6086b966f7072932f094.ttf",
+    "static/media/Lastest.png": "/final_react_project/static/media/Lastest.1f000d92ab44c885cdc9.png",
+    "static/media/storage.png": "/final_react_project/static/media/storage.41af70c748e0ff745fed.png",
+    "static/media/fa-regular-400.woff": "/final_react_project/static/media/fa-regular-400.0e6b58ac5d805dfcd66f.woff",
+    "static/media/fa-regular-400.woff2": "/final_react_project/static/media/fa-regular-400.0fe9428559f3518bb8d4.woff2",
+    "static/media/performance.png": "/final_react_project/static/media/performance.863e83958ee1300652cd.png",
+    "index.html": "/final_react_project/index.html",
+    "main.9931d05b.css.map": "/final_react_project/static/css/main.9931d05b.css.map",
+    "main.ff365d8a.js.map": "/final_react_project/static/js/main.ff365d8a.js.map",
+    "787.bb3bd7c9.chunk.js.map": "/final_react_project/static/js/787.bb3bd7c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9931d05b.css",
+    "static/js/main.ff365d8a.js"
+  ]
+}
