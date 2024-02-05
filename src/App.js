@@ -10,7 +10,6 @@ import Accounts from './Accounts/accounts';
 
 const App = () => {
   return (
-    <p>app js page</p>
     <Router>
     <Routes>
       <Route path="/" element={<Login />} />
